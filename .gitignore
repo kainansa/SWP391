@@ -1,0 +1,24 @@
+# ignore ALL .log files 
+*.log 
+*.class 
+*.properties 
+# ignore ALL files in ANY directory named temp 
+/build/ 
+/dist/ 
+/nbproject/private/
+/HotelManagement/build/
+/HotelManagement/dist/
+/HotelManagement/nbproject/private/
+/HotelManagement/HotelManagement/build/
+/HotelManagement/HotelManagement/HotelManagement/HotelManagement/dist/
+/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/build/
+/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/dist/
+/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/HotelManagement/nbproject/private/
+/HotelManagement/HotelManagement/nbproject/private/
+/HotelManagement/HotelManagement/HotelManagement/build/
+/HotelManagement/HotelManagement/HotelManagement/dist/
+/HotelManagement/HotelManagement/HotelManagement/nbproject/private/
+/HotelManagement/HotelManagement/dist/
+/HotelCombineTest/dist/
+/HotelCombine/nbproject/private/
+/HotelCombine/build/
